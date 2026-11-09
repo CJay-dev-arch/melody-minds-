@@ -1,0 +1,6 @@
+{
+  "name": "Melody Minds - Learn Through Music",
+  "description": "An AI-powered, music-driven personalized educational learning platform combining interactive musical lessons, playful games, personalized learning paths, and teacher/parent insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
